@@ -1,6 +1,7 @@
-cl\duoc\jv0101\caso04\cuentas\config\OpenApiConfig.class
-cl\duoc\jv0101\caso04\cuentas\repository\CuentaRepository.class
-cl\duoc\jv0101\caso04\cuentas\controller\CuentaController.class
-cl\duoc\jv0101\caso04\cuentas\model\Cuenta.class
-cl\duoc\jv0101\caso04\cuentas\CuentaApplication.class
-cl\duoc\jv0101\caso04\cuentas\service\CuentaService.class
+cl\novabank\cuentas\exception\CuentaNotFoundException.class
+cl\novabank\cuentas\model\Cuenta.class
+cl\novabank\cuentas\exception\OperacionInvalidaException.class
+cl\novabank\cuentas\controller\CuentaController.class
+cl\novabank\cuentas\repository\CuentaRepository.class
+cl\novabank\cuentas\CuentasApplication.class
+cl\novabank\cuentas\service\CuentaService.class

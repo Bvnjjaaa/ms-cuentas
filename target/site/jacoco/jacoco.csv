@@ -1,5 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-Cuentas | cuentas,cl.duoc.jv0101.caso04.cuentas.controller,CuentaController,0,53,0,2,0,11,0,7,0,6
-Cuentas | cuentas,cl.duoc.jv0101.caso04.cuentas.model,Cuenta,0,31,0,0,0,11,0,9,0,9
-Cuentas | cuentas,cl.duoc.jv0101.caso04.cuentas.service,CuentaService,0,68,0,0,0,15,0,8,0,8
-Cuentas | cuentas,cl.duoc.jv0101.caso04.cuentas.config,OpenApiConfig,0,17,0,0,0,6,0,2,0,2
